@@ -30,7 +30,7 @@ let package = Package(
     .binaryTarget(
       name: "swiftgen",
       url: "https://github.com/azun-c/SwiftGen/releases/download/6.6.4/swiftgen-6.6.4.artifactbundle.zip",
-      checksum: "004a333c7c114841c42743311e1fce6abe1988683e0a2431fafff8c314af0c89"
+      checksum: "35593e10f5a51966e1012bd2fb0f03137ae3758fca74977270eab86d8ab485f6"
     )
   ]
 )
